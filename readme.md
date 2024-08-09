@@ -1,6 +1,6 @@
-# FNBUBBLES420-ORG
+# FNBUBBLES420 ORG
 
-🌟 **Welcome to FNBUBBLES420-ORG!** 🌟  
+🌟 **Welcome to FNBUBBLES420 ORG!** 🌟  
 Empowering Gamers and Streamers to Make a Difference!
 
 ---
