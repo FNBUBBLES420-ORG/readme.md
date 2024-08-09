@@ -1,20 +1,33 @@
 # FNBUBBLES420-ORG
 
 🌟 **Welcome to FNBUBBLES420-ORG!** 🌟  
-Empowering Gamers, Streamers to Make a Difference!
+Empowering Gamers and Streamers to Make a Difference!
 
 ---
 
 ## 🎯 Mission
 
-At FNBUBBLES420-ORG, our mission is to create an inclusive and supportive community where gamers, streamers. We focus on helping individuals with disabilities, mental health challenges, and those on the autism spectrum by providing resources, support, and opportunities to engage in proactive gaming and development.
+At FNBUBBLES420-ORG, our mission is to empower and uplift gamers and streamers by fostering a supportive, inclusive, and dynamic community. We are dedicated to helping individuals, particularly those with disabilities, autism spectrum disorders, PTSD, mental health challenges, and physical challenges, unlock their full potential and achieve their dreams.
+
+### Our Vision
+
+We are actively working to create a fully accessible and inclusive game center designed to accommodate gamers with diverse needs. Supported by sponsorships, grants, and donations, this game center will provide a welcoming space for everyone, regardless of their challenges.
 
 ## 💡 What We Do
 
-- **Support for Disabled Gamers:** Offering tools and resources to help disabled gamers achieve their potential.
-- **Mental Health Advocacy:** Promoting mental well-being through gaming and community support.
-- **Inclusive Community Building:** Fostering a space where everyone is welcome, regardless of background or ability.
-- `Coming Soon` **Development Resources:** Providing coding tutorials, workshops, and collaboration opportunities for developers of all levels.
+- **Support for Disabled Gamers:** Providing tailored tools and resources to help disabled gamers achieve their potential.
+- **Mental Health Advocacy:** Promoting mental well-being through gaming, community support, and educational initiatives.
+- **Inclusive Community Building:** Creating a space where everyone is welcome, regardless of background or ability.
+- **Development Resources:** `Coming Soon` Offering coding tutorials, workshops, and collaboration opportunities for developers at all levels.
+
+## 🌟 Core Values
+
+Our community is built on a foundation of core values that guide our actions and interactions with one another. These values are the driving force behind our mission and vision for the future:
+
+- **✨ Positivity:** Stay positive through anything in life. Embrace challenges with a positive attitude and believe in the power of positivity to overcome obstacles.
+- **🏆 Achievement:** Strive to reach your goals and push beyond your limits. Celebrate every achievement, big or small, as a step toward your greater purpose.
+- **🌱 Growth:** Continuously learn and evolve. Growth is about improving yourself and helping others do the same, fostering a supportive environment for everyone.
+- **🚀 Success:** Success is not just about reaching the top; it's about the journey and the progress made along the way. Together, we can achieve our dreams and support each other in our endeavors.
 
 ## 🚀 Get Involved
 
@@ -54,14 +67,16 @@ We provide a range of resources to help you grow as a developer:
 
 We’re here to help! Whether you have questions, need support, or want to collaborate, feel free to reach out:
 
-- **Email:** support@fnbubbles420.org
-- **Discord:** [Join Us](https://discord.fnbubbles420.org)
+- **Email:** [support@fnbubbles420.org](mailto:support@fnbubbles420.org)
+- **Discord:** [Join Us](https://discord.fnbubbles420.org/invite)
 - **Twitter:** [Follow Us](https://twitter.com/fnbubbles420)
 - **Twitch:** [Watch Live](https://www.twitch.tv/fnbubbles420org)
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/FNBUBBLES420-ORG/readme.md/blob/main/LICENSE) file for details.
+This project is licensed under a **Private License**.  
+Forking of this repository is not permitted.  
+For more details or to request access to the license, please contact us directly at [support@fnbubbles420.org](mailto:support@fnbubbles420.org).
 
 ## 🙌 Acknowledgments
 
