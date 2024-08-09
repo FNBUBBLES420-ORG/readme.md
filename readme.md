@@ -61,7 +61,7 @@ We’re here to help! Whether you have questions, need support, or want to colla
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/FNBUBBLES420-ORG/readme.md/blob/main/LICENSE) file for details.
 
 ## 🙌 Acknowledgments
 
