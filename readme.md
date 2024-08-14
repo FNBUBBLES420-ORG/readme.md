@@ -7,7 +7,7 @@ Empowering Gamers and Streamers to Make a Difference!
 
 ## 🎯 Mission
 
-At FNBUBBLES420-ORG, our mission is to empower and uplift gamers and streamers by fostering a supportive, inclusive, and dynamic community. We are dedicated to helping individuals, particularly those with disabilities, autism spectrum disorders, PTSD, mental health challenges, and physical challenges, unlock their full potential and achieve their dreams.
+At FNBUBBLES420-ORG, our mission is to empower and uplift gamers and streamers, developers by fostering a supportive, inclusive, and dynamic community. We are dedicated to helping individuals, particularly those with disabilities, autism spectrum disorders, PTSD, mental health challenges, and physical challenges, unlock their full potential and achieve their dreams.
 
 ### Our Vision
 
