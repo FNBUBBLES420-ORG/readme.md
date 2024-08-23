@@ -1,17 +1,17 @@
 # FNBUBBLES420 ORG
 
 🌟 **Welcome to FNBUBBLES420 ORG!** 🌟  
-Empowering Gamers and Streamers, Developers to Make a Difference!
+Empowering Gamers, Streamers, and Developers to Make a Difference!
 
 ---
 
 ## 🎯 Mission
 
-At FNBUBBLES420-ORG, our mission is to empower and uplift gamers and streamers, developers by fostering a supportive, inclusive, and dynamic community. We are dedicated to helping individuals, particularly those with disabilities, autism spectrum disorders, PTSD, mental health challenges, and physical challenges, unlock their full potential and achieve their dreams.
+At FNBUBBLES420 Org, our mission is to empower and uplift gamers and streamers, particularly those with disabilities, autism spectrum disorders, PTSD, mental health challenges, and physical challenges. We are committed to building a supportive, inclusive, and dynamic community where every individual can unlock their full potential.
 
 ### Our Vision
 
-We are actively working to create a fully accessible and inclusive game center designed to accommodate gamers with diverse needs. Supported by sponsorships, grants, and donations, this game center will provide a welcoming space for everyone, regardless of their challenges.
+We are actively seeking sponsorships, grants, and donations to create a fully accessible game center. This space will be designed to accommodate and support all gamers, regardless of their physical or mental challenges, fostering a welcoming environment for everyone.
 
 ## 💡 What We Do
 
@@ -24,10 +24,10 @@ We are actively working to create a fully accessible and inclusive game center d
 
 Our community is built on a foundation of core values that guide our actions and interactions with one another. These values are the driving force behind our mission and vision for the future:
 
-- **✨ Positivity:** Stay positive through anything in life. Embrace challenges with a positive attitude and believe in the power of positivity to overcome obstacles.
-- **🏆 Achievement:** Strive to reach your goals and push beyond your limits. Celebrate every achievement, big or small, as a step toward your greater purpose.
-- **🌱 Growth:** Continuously learn and evolve. Growth is about improving yourself and helping others do the same, fostering a supportive environment for everyone.
-- **🚀 Success:** Success is not just about reaching the top; it's about the journey and the progress made along the way. Together, we can achieve our dreams and support each other in our endeavors.
+- **✨ Positivity:** Embrace challenges with a positive attitude.
+- **🏆 Achievement:** Strive to reach your goals and celebrate every success.
+- **🌱 Growth:** Continuously learn and evolve, supporting each other's growth.
+- **🚀 Success:** Focus on the journey and the progress made along the way.
 
 ## 🚀 Get Involved
 
