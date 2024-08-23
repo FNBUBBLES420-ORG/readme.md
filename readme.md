@@ -33,8 +33,7 @@ Our community is built on a foundation of core values that guide our actions and
 
 We believe in the power of community, and there are many ways to get involved with FNBUBBLES420-ORG:
 
-- **Join Our Discord:** Connect with like-minded individuals on our [FNBUBBLES420 ORG Discord Server](https://discord.fnbubbles420.org/invite).
-- **Join Our Dev Server:** [Bubbles Dev Community](https://discord.gg/NT38Va6vQA)
+- **Join Our Discord:** Connect with like-minded individuals on our [Fnbubbles420 Org - Promo / Gaming & Developer Community](https://discord.fnbubbles420.org/invite).
 - **Contribute to Our Projects:** Explore our open-source projects and contribute your skills to help others.
 - **Participate in Events:** Stay tuned for upcoming live events, workshops, and community challenges on our [Twitch channel](https://www.twitch.tv/fnbubbles420org).
 - **Spread the Word:** Share our mission on social media using our tags:
