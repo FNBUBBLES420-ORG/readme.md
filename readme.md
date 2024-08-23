@@ -18,7 +18,7 @@ We are actively seeking sponsorships, grants, and donations to create a fully ac
 - **Support for Disabled Gamers:** Providing tailored tools and resources to help disabled gamers achieve their potential.
 - **Mental Health Advocacy:** Promoting mental well-being through gaming, community support, and educational initiatives.
 - **Inclusive Community Building:** Creating a space where everyone is welcome, regardless of background or ability.
-- **Development Resources:** `Coming Soon` Offering coding tutorials, workshops, and collaboration opportunities for developers at all levels.
+- **Development Resources:** Offering coding tutorials, workshops, and collaboration opportunities for developers at all levels.
 
 ## 🌟 Core Values
 
