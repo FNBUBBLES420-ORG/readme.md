@@ -46,6 +46,7 @@ We believe in the power of community, and there are many ways to get involved wi
   - #InclusiveCommunity
   - #HelpingOthers
   - #ProactiveGaming
+  - #DeveloperCommunuity
 
 ## 🛠️ Projects
 
