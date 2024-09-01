@@ -1,24 +1,24 @@
 # FNBUBBLES420 ORG
 
 🌟 **Welcome to FNBUBBLES420 ORG!** 🌟  
-Empowering Gamers, Streamers, and Developers to Make a Difference!
+Empowering Gamers, Streamers, Developers, and Veterans to Make a Difference!
 
 ---
 
 ## 🎯 Mission
 
-At FNBUBBLES420 Org, our mission is to empower and uplift gamers and streamers, particularly those with disabilities, autism spectrum disorders, PTSD, mental health challenges, and physical challenges. We are committed to building a supportive, inclusive, and dynamic community where every individual can unlock their full potential.
+At FNBUBBLES420 Org, our mission is to empower and uplift gamers, streamers, developers, and veterans, particularly those with disabilities, autism spectrum disorders, PTSD, mental health challenges, physical challenges, and service-related injuries. We are committed to building a supportive, inclusive, and dynamic community where every individual can unlock their full potential.
 
 ### Our Vision
 
-We are actively seeking sponsorships, grants, and donations to create a fully accessible game center. This space will be designed to accommodate and support all gamers, regardless of their physical or mental challenges, fostering a welcoming environment for everyone.
+We are actively seeking sponsorships, grants, and donations to create a fully accessible game center. This space will be designed to accommodate and support all gamers and veterans, regardless of their physical or mental challenges, fostering a welcoming environment for everyone.
 
 ## 💡 What We Do
 
-- **Support for Disabled Gamers:** Providing tailored tools and resources to help disabled gamers achieve their potential.
+- **Support for Disabled Gamers and Veterans:** Providing tailored tools and resources to help disabled gamers and veterans achieve their potential.
 - **Mental Health Advocacy:** Promoting mental well-being through gaming, community support, and educational initiatives.
 - **Inclusive Community Building:** Creating a space where everyone is welcome, regardless of background or ability.
-- **Development Resources:** Offering coding tutorials, workshops, and collaboration opportunities for developers at all levels.
+- **Development Resources:** Offering coding tutorials, workshops, and collaboration opportunities for developers and veterans at all levels.
 
 ## 🌟 Core Values
 
@@ -46,7 +46,8 @@ We believe in the power of community, and there are many ways to get involved wi
   - #InclusiveCommunity
   - #HelpingOthers
   - #ProactiveGaming
-  - #DeveloperCommunuity
+  - #DeveloperCommunity
+  - #VeteranSupport
 
 ## 🛠️ Projects
 
