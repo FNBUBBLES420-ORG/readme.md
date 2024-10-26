@@ -1,7 +1,7 @@
 # FNBUBBLES420 ORG
 
 🌟 **Welcome to FNBUBBLES420 ORG!** 🌟  
-Empowering Gamers, Streamers, Developers, and Veterans to Make a Difference!
+Empowering Disabled Gamers, Streamers, Developers, and Veterans to Make a Difference!
 
 ---
 
